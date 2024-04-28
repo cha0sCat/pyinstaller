@@ -1,5 +1,5 @@
-name: Versatile PyInstaller
-author: '@sayyid5416'
+name: Versatile PyInstaller With Python3.7 Support
+author: '@cha0sCat'
 description: Customisable GitHub Action to package python scripts into executables for different OS's
 branding: 
   icon: hard-drive
