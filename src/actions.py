@@ -1,5 +1,4 @@
 import os
-from typing import Literal
 
 
 def env(name: str, _def=''):
@@ -14,7 +13,7 @@ def env(name: str, _def=''):
 def set_annotation(
     message: str,
     title: str='',
-    _type: Literal['debug', 'notice', 'warning', 'error']='notice',
+    _type='notice',
 ):
     """
     Sets annotation with `message` text
